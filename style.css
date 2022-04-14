@@ -1,0 +1,13 @@
+.ueberschrift{
+    color: aqua;
+    background-color: grey;
+    font-size: 64px;
+}
+
+.listelement{
+    font-weight: 700;
+}
+
+.text{
+    font-family: Arial, Helvetica, sans-serif;
+}
